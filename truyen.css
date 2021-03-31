@@ -1,0 +1,28 @@
+body {
+    background-image: url("1340x754-1-hero.jpg");
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#mucluc {
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: lightgreen;
+}
+
+p {
+    text-indent: 50px;
+}
